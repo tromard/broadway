@@ -3,3 +3,45 @@ body
     font-family: "Helvetica", sans-serif;
     text-align: center;
   }
+p.home
+  {
+    font-size: 18px;
+  }
+.background
+  {
+    background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+    color: white;
+  }
+a
+  {
+    color: white;
+  }
+#logo
+  {
+    font-size: 70px;
+    font-weight: bold;
+  }
+h2
+  {
+    font-size: 32px;
+    font-weight: bold;
+  }
+h3
+  {
+    font-size: 23px;
+    font-weight: bold;
+  }
+
+  {
+    font-size: 14px;
+  }
+.corp
+  {
+    font-size: 11px;
+    color: white;
+  }
+.footer
+  {
+    text-align: left;
+    background-color: dimgray;
+  }
